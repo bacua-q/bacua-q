@@ -5,12 +5,14 @@
 
 <h2>👨‍💻 Cloud & Infra Projects:</h2>
 
-- <b>Infraestructura como Código con Terraform</b>  
-  - [Laboratorios y scripts básicos para AWS y Azure](https://github.com/bayardocuadra/terraform-aws-azure-labs)  
-- <b>Automatización en AWS y Azure</b>  
-  - [Proyectos de aprovisionamiento EC2, S3 y Azure VMs](https://github.com/bayardocuadra/aws-azure-automation)  
+- <b> Plataforma Cloud (AWS) </b>  
+  - [Laboratorios y scripts (Terraform) para AWS](https://github.com/bayardocuadra/terraform-aws-azure-labs)  
+- <b> Infraestructura & Hyper-Convergencia </b>  
+  - [Laboratorios de Windows Server, VMware, Nutanix](https://github.com/bayardocuadra/aws-azure-automation)  
 - <b>Microsoft 365 Administration</b>  
-  - [Scripts y documentación para gestión de Exchange Online y Defender](https://github.com/bayardocuadra/m365-administration)  
+  - [Scripts y documentación para gestión de Exchange Online y Defender](https://github.com/bayardocuadra/m365-administration)
+- <b>Seguridad & Networking</b>  
+  - [configuración, Scripts y documentación para topologías de redes y seguridad](https://github.com/bayardocuadra/m365-administration)
 - <b>Soporte y Preventa Técnica</b>  
   - [Plantillas para propuestas y documentación técnica](https://github.com/bayardocuadra/preventa-tecnica)  
 
