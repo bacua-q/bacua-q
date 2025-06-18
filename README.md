@@ -1,16 +1,18 @@
 <h1>Hi, I'm Bayardo Cuadra! <br/>
-<a href="https://github.com/tu_usuario">Cloud Platform Engineer</a>, <a href="https://www.linkedin.com/in/tu-perfil">Ingeniero en Telecomunicaciones</a>, <a href="https://www.linkedin.com/in/tu-perfil">Especialista en Preventa y Soporte Cloud</a></h1>
+<a href="https://github.com/bayardocuadra" target="_blank" rel="noopener noreferrer">Cloud Platform Engineer</a>, 
+<a href="https://www.linkedin.com/in/bayardocuadra" target="_blank" rel="noopener noreferrer">Ingeniero en Telecomunicaciones</a>, 
+<a href="https://www.linkedin.com/in/bayardocuadra" target="_blank" rel="noopener noreferrer">Especialista en Preventa y Soporte Cloud</a></h1>
 
 <h2>👨‍💻 Cloud & Infra Projects:</h2>
 
 - <b>Infraestructura como Código con Terraform</b>  
-  - [Laboratorios y scripts básicos para AWS y Azure](https://github.com/tu_usuario/terraform-aws-azure-labs)  
+  - [Laboratorios y scripts básicos para AWS y Azure](https://github.com/bayardocuadra/terraform-aws-azure-labs)  
 - <b>Automatización en AWS y Azure</b>  
-  - [Proyectos de aprovisionamiento EC2, S3 y Azure VMs](https://github.com/tu_usuario/aws-azure-automation)  
+  - [Proyectos de aprovisionamiento EC2, S3 y Azure VMs](https://github.com/bayardocuadra/aws-azure-automation)  
 - <b>Microsoft 365 Administration</b>  
-  - [Scripts y documentación para gestión de Exchange Online y Defender](https://github.com/tu_usuario/m365-administration)  
+  - [Scripts y documentación para gestión de Exchange Online y Defender](https://github.com/bayardocuadra/m365-administration)  
 - <b>Soporte y Preventa Técnica</b>  
-  - [Plantillas para propuestas y documentación técnica](https://github.com/tu_usuario/preventa-tecnica)  
+  - [Plantillas para propuestas y documentación técnica](https://github.com/bayardocuadra/preventa-tecnica)  
 
 <h2>📜 Certificaciones:</h2>
 
@@ -27,18 +29,20 @@
 
 <h2> 🤳 Conéctate conmigo:</h2>
 
-[<img align="left" alt="Bayardo Cuadra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Bayardo Cuadra | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+<a href="https://linkedin.com/in/bayardocuadra" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
+  <img alt="Bayardo Cuadra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="vertical-align: middle; filter: invert(29%) sepia(97%) saturate(4649%) hue-rotate(186deg) brightness(91%) contrast(101%);" />
+</a>
 
-[linkedin]: https://www.linkedin.com/in/bayardo-cuadra-quiroz-71465916b 
-[github]: https://github.com/tu_usuario  
+<a href="https://github.com/bayardocuadra" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
+  <img alt="Bayardo Cuadra | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="vertical-align: middle;" />
+</a>
 
 <!--  
-**tu_usuario/tu_usuario** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+**bayardocuadra/bayardocuadra** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 - 🔭 I’m currently working on cloud automation and Terraform projects.  
 - 🌱 I’m learning advanced cloud security and multi-cloud infrastructure.  
 - 👯 I’m open to collaborating on cloud architecture and automation projects.  
 - 💬 Ask me about cloud platforms, infrastructure as code, and Microsoft 365 administration.  
-- 📫 How to reach me: linkedin.com/in/tu-perfil  
+- 📫 How to reach me: linkedin.com/in/bayardocuadra  
 -->  
