@@ -19,7 +19,8 @@
 - AWS Cloud Practitioner (CLF-C02)  
 - Microsoft Azure Fundamentals (AZ-900)  
 - Especialista en Ciberseguridad (CS90.01)  
-- Certificación en Ciberseguridad (IRSI/SISAP)  
+- Certificación en Ciberseguridad (IRSI/SISAP)
+- Certificación AWS Solutions Architect (Proceso)  
 
 <h2>📚 Actualmente aprendiendo:</h2>
 
