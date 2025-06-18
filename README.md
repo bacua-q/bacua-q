@@ -30,7 +30,7 @@
 [<img align="left" alt="Bayardo Cuadra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 [<img align="left" alt="Bayardo Cuadra | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-[linkedin]: https://linkedin.com/in/tu-perfil  
+[linkedin]: https://www.linkedin.com/in/bayardo-cuadra-quiroz-71465916b 
 [github]: https://github.com/tu_usuario  
 
 <!--  
