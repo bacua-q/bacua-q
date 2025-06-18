@@ -29,10 +29,13 @@
 
 <h2> 🤳 Conéctate conmigo:</h2>
 
+<a href="https://www.linkedin.com/in/bayardocuadra" target="_blank" rel="noopener noreferrer" style="margin-right:16px;">
+  <img alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/linkedin.png" style="vertical-align: middle;" />
+</a>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/joshmadakor
+<a href="mailto:Cuadra.bq@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-left:4px;">
+  <img alt="Gmail" width="22px" src="https://img.icons8.com/color/48/gmail-new.png" style="vertical-align: middle;" />
+</a>
 
 <!--  
 **bayardocuadra/bayardocuadra** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
