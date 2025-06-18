@@ -29,13 +29,10 @@
 
 <h2> 🤳 Conéctate conmigo:</h2>
 
-<a href="https://linkedin.com/in/bayardocuadra" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
-  <img alt="Bayardo Cuadra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="vertical-align: middle; filter: invert(29%) sepia(97%) saturate(4649%) hue-rotate(186deg) brightness(91%) contrast(101%);" />
-</a>
 
-<a href="https://github.com/bayardocuadra" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
-  <img alt="Bayardo Cuadra | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="vertical-align: middle;" />
-</a>
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--  
 **bayardocuadra/bayardocuadra** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
