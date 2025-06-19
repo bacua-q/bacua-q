@@ -10,7 +10,7 @@
 - <b> Infraestructura & Hyper-Convergencia </b>  
   - [Laboratorios de Windows Server, VMware, Nutanix](https://github.com/bayardocuadra/aws-azure-automation)  
 - <b>Microsoft 365 Administration</b>  
-  - [Scripts y documentación para gestión de Exchange Online y Defender](https://github.com/bayardocuadra/m365-administration)
+  - [Scripts y documentación para gestión de Exchange Online y Defender](https://github.com/bacua-q/Microsoft-365-Administration)
 - <b>Seguridad & Networking</b>  
   - [configuración, Scripts y documentación para topologías de redes y seguridad](https://github.com/bayardocuadra/m365-administration)
 - <b>Soporte y Preventa Técnica</b>  
