@@ -12,7 +12,7 @@
 - <b> Administración con Microsoft 365 </b>  
   - [Scripts y documentación para gestión de Microsoft Entra, Exchange Online y Defender](https://github.com/bacua-q/Microsoft-365-Administration)
 - <b>Seguridad & Networking</b>  
-  - [configuración, Scripts y documentación para topologías de redes y seguridad](https://github.com/bayardocuadra/m365-administration)
+  - [configuración, Scripts y documentación para topologías de redes y seguridad](https://github.com/bacua-q/Networking-Security)
 - <b>Soporte y Preventa Técnica</b>  
   - [Plantillas para propuestas y documentación técnica](https://github.com/bayardocuadra/preventa-tecnica)  
 
