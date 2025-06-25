@@ -1,16 +1,16 @@
-<h1>Hi, I'm Bayardo Cuadra! <br/>
+<h1>Hola, mi nombre Bayardo Cuadra! <br/>
 <a href="https://github.com/bayardocuadra" target="_blank" rel="noopener noreferrer">Cloud Platform Engineer</a>, 
 <a href="https://www.linkedin.com/in/bayardocuadra" target="_blank" rel="noopener noreferrer">Ingeniero en Telecomunicaciones</a>, 
 <a href="https://www.linkedin.com/in/bayardocuadra" target="_blank" rel="noopener noreferrer">Especialista en Preventa y Soporte Cloud</a></h1>
 
-<h2>👨‍💻 Cloud & Infra Projects:</h2>
+<h2>👨‍💻 Proyectos de Tecnologia:</h2>
 
 - <b> Plataforma Cloud (AWS) </b>  
   - [Laboratorios y scripts (Terraform) para AWS](https://github.com/bayardocuadra/terraform-aws-azure-labs)  
 - <b> Infraestructura & Hyper-Convergencia </b>  
   - [Laboratorios de Windows Server, VMware, Nutanix](https://github.com/bayardocuadra/aws-azure-automation)  
-- <b>Microsoft 365 Administration</b>  
-  - [Scripts y documentación para gestión de Exchange Online y Defender](https://github.com/bacua-q/Microsoft-365-Administration)
+- <b> Administración con Microsoft 365 </b>  
+  - [Scripts y documentación para gestión de Microsoft Entra, Exchange Online y Defender](https://github.com/bacua-q/Microsoft-365-Administration)
 - <b>Seguridad & Networking</b>  
   - [configuración, Scripts y documentación para topologías de redes y seguridad](https://github.com/bayardocuadra/m365-administration)
 - <b>Soporte y Preventa Técnica</b>  
